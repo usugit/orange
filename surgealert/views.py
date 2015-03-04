@@ -6,7 +6,7 @@ from .models import Greeting
 
 # Create your views here.
 def index(request):
-	santamonica = {'start_latitude':'34.019454','start_longitude':'-118.491191','end_latitude':'34.019479','end_longitude':'-118.401718'}
+	100 n wacker = {'start_latitude':'41.8832124','start_longitude':'-87.6370946','end_latitude':'41.8832125','end_longitude':'-87.6370947'}
 	manhattanbeach = {'start_latitude':'33.881728','start_longitude':'-118.404121','end_latitude':'34.019479','end_longitude':'-118.401718'}
 	westhollywood = {'start_latitude':'34.085036','start_longitude':'-118.359318','end_latitude':'34.019479','end_longitude':'-118.401718'}
 	koreatown = {'start_latitude':'34.069112','start_longitude':'-118.281384','end_latitude':'34.019479','end_longitude':'-118.401718'}
