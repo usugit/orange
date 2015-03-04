@@ -16,7 +16,7 @@ def index(request):
 	northhollywood = {'start_latitude':'34.161161','start_longitude':'-118.358803','end_latitude':'34.019479','end_longitude':'-118.401718'}
 
 	cities = []
-	cities.append(santamonica)
+	cities.append(100_n_wacker)
 	cities.append(manhattanbeach)
 	cities.append(westhollywood)
 	cities.append(koreatown)
